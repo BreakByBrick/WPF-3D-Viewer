@@ -1,1 +1,1 @@
-# Demo.AvaloniaUI
+# WPF 3D Viewer
