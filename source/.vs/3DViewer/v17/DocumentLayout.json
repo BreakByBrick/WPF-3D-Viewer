@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Users\\Vladimir\\GIT\\3DViewer\\3DViewer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1EE9D3-2871-41E8-B024-4AB6FBC68C0A}|3DViewer.Xaml\\WPF.3DViewer.csproj|e:\\users\\vladimir\\git\\3dviewer\\3dviewer\\3dviewer.xaml\\visuals\\itemsmodelvisual3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1EE9D3-2871-41E8-B024-4AB6FBC68C0A}|3DViewer.Xaml\\WPF.3DViewer.csproj|solutionrelative:3dviewer.xaml\\visuals\\itemsmodelvisual3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1EE9D3-2871-41E8-B024-4AB6FBC68C0A}|3DViewer.Xaml\\3DViewer.Xaml.csproj|E:\\Users\\Vladimir\\GIT\\3DViewer\\3DViewer\\3dviewer.xaml\\visuals\\itemsmodelvisual3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1EE9D3-2871-41E8-B024-4AB6FBC68C0A}|3DViewer.Xaml\\3DViewer.Xaml.csproj|solutionrelative:3dviewer.xaml\\visuals\\itemsmodelvisual3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1EE9D3-2871-41E8-B024-4AB6FBC68C0A}|3DViewer.Xaml\\3DViewer.Xaml.csproj|e:\\users\\vladimir\\git\\3dviewer\\3dviewer\\3dviewer.xaml\\scene.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1EE9D3-2871-41E8-B024-4AB6FBC68C0A}|3DViewer.Xaml\\3DViewer.Xaml.csproj|solutionrelative:3dviewer.xaml\\scene.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1EE9D3-2871-41E8-B024-4AB6FBC68C0A}|3DViewer.Xaml\\3DViewer.Xaml.csproj|E:\\Users\\Vladimir\\GIT\\3DViewer\\3DViewer\\3dviewer.xaml\\scene.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D1EE9D3-2871-41E8-B024-4AB6FBC68C0A}|3DViewer.Xaml\\3DViewer.Xaml.csproj|solutionrelative:3dviewer.xaml\\scene.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 861,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemsModelVisual3D.cs",
+              "DocumentMoniker": "E:\\Users\\Vladimir\\GIT\\3DViewer\\3DViewer\\3DViewer.Xaml\\Visuals\\ItemsModelVisual3D.cs",
+              "RelativeDocumentMoniker": "3DViewer.Xaml\\Visuals\\ItemsModelVisual3D.cs",
+              "ToolTip": "E:\\Users\\Vladimir\\GIT\\3DViewer\\3DViewer\\3DViewer.Xaml\\Visuals\\ItemsModelVisual3D.cs",
+              "RelativeToolTip": "3DViewer.Xaml\\Visuals\\ItemsModelVisual3D.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:23:46.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemsModelVisual3D.cs",
+              "DocumentMoniker": "E:\\Users\\Vladimir\\GIT\\3DViewer\\3DViewer\\3DViewer.Xaml\\Visuals\\ItemsModelVisual3D.cs",
+              "RelativeDocumentMoniker": "3DViewer.Xaml\\Visuals\\ItemsModelVisual3D.cs",
+              "ToolTip": "E:\\Users\\Vladimir\\GIT\\3DViewer\\3DViewer\\3DViewer.Xaml\\Visuals\\ItemsModelVisual3D.cs",
+              "RelativeToolTip": "3DViewer.Xaml\\Visuals\\ItemsModelVisual3D.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:38:19.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Scene.xaml",
+              "DocumentMoniker": "E:\\Users\\Vladimir\\GIT\\3DViewer\\3DViewer\\3DViewer.Xaml\\Scene.xaml",
+              "RelativeDocumentMoniker": "3DViewer.Xaml\\Scene.xaml",
+              "ToolTip": "E:\\Users\\Vladimir\\GIT\\3DViewer\\3DViewer\\3DViewer.Xaml\\Scene.xaml",
+              "RelativeToolTip": "3DViewer.Xaml\\Scene.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-08T19:20:54.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Scene.xaml.cs",
+              "DocumentMoniker": "E:\\Users\\Vladimir\\GIT\\3DViewer\\3DViewer\\3DViewer.Xaml\\Scene.xaml.cs",
+              "RelativeDocumentMoniker": "3DViewer.Xaml\\Scene.xaml.cs",
+              "ToolTip": "E:\\Users\\Vladimir\\GIT\\3DViewer\\3DViewer\\3DViewer.Xaml\\Scene.xaml.cs",
+              "RelativeToolTip": "3DViewer.Xaml\\Scene.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:15:54.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
